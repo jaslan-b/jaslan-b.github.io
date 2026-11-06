@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "az.kapitalbank.biridsdkdemo",
+      "sha256_cert_fingerprints": [
+        "E6:C0:45:88:16:6A:C8:34:E0:BE:B0:E3:AF:64:48:8E:80:45:F8:E4:EE:E0:05:12:33:62:AA:20:06:64:92:8D"
+      ]
+    }
+  }
+]
