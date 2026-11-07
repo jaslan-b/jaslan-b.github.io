@@ -11,5 +11,18 @@
         "E6:C0:45:88:16:6A:C8:34:E0:BE:B0:E3:AF:64:48:8E:80:45:F8:E4:EE:E0:05:12:33:62:AA:20:06:64:92:8D"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "az.kapitalbank.biridsdkdemo.partnerb",
+      "sha256_cert_fingerprints": [
+        "15:74:4C:8F:3C:79:D7:18:BD:CB:91:8B:19:36:00:62:0A:D9:A0:7F:C9:66:8B:9C:FB:C2:1C:27:C2:BE:79:A2"
+      ]
+    }
   }
 ]
